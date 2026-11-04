@@ -1,0 +1,39 @@
+{
+  "timestamp": "2026-11-04",
+  "mockData": true,
+  "overview": {
+    "netWorth": 350000,
+    "monthlyIncome": 12500,
+    "monthlySavings": 3500,
+    "savingsRate": 0.28
+  },
+  "assets": [
+    {
+      "category": "Cash",
+      "value": 25000,
+      "percentage": 7.1
+    },
+    {
+      "category": "Stocks (Fidelity)",
+      "value": 180000,
+      "percentage": 51.4
+    },
+    {
+      "category": "Real Estate Equity",
+      "value": 120000,
+      "percentage": 34.3
+    },
+    {
+      "category": "Crypto",
+      "value": 25000,
+      "percentage": 7.1
+    }
+  ],
+  "debts": [
+    {
+      "type": "Mortgage",
+      "balance": 0,
+      "rate": 0.0
+    }
+  ]
+}

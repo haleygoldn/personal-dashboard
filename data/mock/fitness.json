@@ -1,0 +1,41 @@
+{
+  "timestamp": "2026-11-04",
+  "mockData": true,
+  "currentWeight": 170,
+  "goalWeight": 165,
+  "weightUnit": "lbs",
+  "thisWeekStats": {
+    "runsCount": 3,
+    "totalDistance": 18.2,
+    "distanceUnit": "miles",
+    "averagePace": "8:30",
+    "totalSteps": 89680,
+    "dailyAverageSteps": 12811
+  },
+  "lifting": {
+    "frequency": "4x per week",
+    "lastSession": "2026-11-03",
+    "exercises": [
+      {
+        "name": "Squat",
+        "oneRepMax": 315,
+        "unit": "lbs"
+      },
+      {
+        "name": "Bench Press",
+        "oneRepMax": 225,
+        "unit": "lbs"
+      },
+      {
+        "name": "Deadlift",
+        "oneRepMax": 405,
+        "unit": "lbs"
+      }
+    ]
+  },
+  "nutrition": {
+    "dailyCalorieGoal": 2200,
+    "dailyProtein": 160,
+    "proteinUnit": "g"
+  }
+}
